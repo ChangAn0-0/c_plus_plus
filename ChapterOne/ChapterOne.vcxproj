@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1_16.cpp" />
+    <ClInclude Include="Sales_item.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
