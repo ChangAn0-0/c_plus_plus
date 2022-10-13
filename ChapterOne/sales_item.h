@@ -72,4 +72,4 @@ inline double Sales_item::avg_price() const
         return 0;
 }
 #endif
-//
+////////
