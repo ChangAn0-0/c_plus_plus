@@ -10,5 +10,11 @@ int main(void)
 	cout << oct;
 	cout << num << endl;
 	cout << num2 << endl;
+
+	char ch;
+	cin >> ch;
+	num = ch;
+	cout << dec;
+	cout << num << endl;
 	return 0;
 }
