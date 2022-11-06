@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="vertor.h" />
+    <ClInclude Include="complex0.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="randwalk.cpp" />
-    <ClCompile Include="vector.cpp" />
+    <ClCompile Include="complex0.cpp" />
+    <ClCompile Include="test_complex0.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
