@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClInclude Include="strngbad.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="strngbad.cpp" />
+    <ClCompile Include="vegnews.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
