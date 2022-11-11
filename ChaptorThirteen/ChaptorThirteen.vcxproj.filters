@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tabtenn0.h">
+    <ClInclude Include="brass.h">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="tabtenn0.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="usett1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
