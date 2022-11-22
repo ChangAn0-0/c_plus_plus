@@ -16,4 +16,4 @@ public:
 	explicit Student(const std::string & s)
 		:name(s),scores() {}
 };
-#endif
+#endif//
