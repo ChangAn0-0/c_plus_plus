@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stcktp1.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="tempmemb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
