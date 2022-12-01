@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="exc_mean.h">
+    <ClInclude Include="sales.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="error4.cpp">
+    <ClCompile Include="sales.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
