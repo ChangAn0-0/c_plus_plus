@@ -19,10 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sales.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="sales.cpp" />
+    <ClCompile Include="rtti1.cpp" />
+    <ClCompile Include="rtti2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
